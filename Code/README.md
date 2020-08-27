@@ -1,5 +1,4 @@
 
-# JAVA 8 - Cheat Sheet
 
 ## Lambda Expression
 ```java
@@ -349,8 +348,3 @@ stream.sorted(
     .thenComparing(Pair::second)
 ) // ok
 ```
-
----
-
-This cheat sheet was based on the lecture of Cay Horstmann
-http://horstmann.com/heig-vd/spring2015/poo/
